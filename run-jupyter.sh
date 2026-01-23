@@ -1,0 +1,1 @@
+uv run --with jupyter --with jupyterlab-code-formatter --with "black[jupyter]" --with isort jupyter lab
